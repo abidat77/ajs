@@ -1,5 +1,5 @@
 {
-  "name": "@abidat77/ajs",
+  "name": "@abidat77/ajs-hw",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abidat77/ajs.git"
+    "url": "git+https://github.com/abidat77/ajs-hw.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abidat77/ajs/issues"
+    "url": "https://github.com/abidat77/ajs-hw/issues"
   },
-  "homepage": "https://github.com/abidat77/ajs#readme",
+  "homepage": "https://github.com/abidat77/ajs-hw#readme",
   "devDependencies": {
     "@babel/cli": "^7.27.2",
     "@babel/core": "^7.27.1",
